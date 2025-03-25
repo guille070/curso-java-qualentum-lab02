@@ -1,11 +1,11 @@
-package com.glopezchiesino.carregistry.controller;
+package com.name.carregistry.controller;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.glopezchiesino.carregistry.service.CarRegistryService;
-import com.glopezchiesino.carregistry.model.Car;
+import com.name.carregistry.model.Car;
+import com.name.carregistry.service.CarRegistryService;
 
 import lombok.extern.slf4j.Slf4j;
 

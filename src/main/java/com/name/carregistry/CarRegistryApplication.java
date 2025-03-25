@@ -1,4 +1,4 @@
-package com.glopezchiesino.carregistry;
+package com.name.carregistry;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

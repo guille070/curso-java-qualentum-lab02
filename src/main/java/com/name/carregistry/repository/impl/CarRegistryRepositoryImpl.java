@@ -1,9 +1,9 @@
-package com.glopezchiesino.carregistry.repository.impl;
+package com.name.carregistry.repository.impl;
 
 import org.springframework.stereotype.Repository;
 
-import com.glopezchiesino.carregistry.model.Car;
-import com.glopezchiesino.carregistry.repository.CarRegistryRepository;
+import com.name.carregistry.model.Car;
+import com.name.carregistry.repository.CarRegistryRepository;
 
 import lombok.extern.slf4j.Slf4j;
 

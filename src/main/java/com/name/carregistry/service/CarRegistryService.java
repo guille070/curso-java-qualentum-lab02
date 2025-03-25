@@ -1,4 +1,4 @@
-package com.glopezchiesino.carregistry.service;
+package com.name.carregistry.service;
 
 public interface CarRegistryService {
     void getProperty();

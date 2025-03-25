@@ -1,11 +1,11 @@
-package com.glopezchiesino.carregistry.service.impl;
+package com.name.carregistry.service.impl;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Service;
 
-import com.glopezchiesino.carregistry.repository.CarRegistryRepository;
-import com.glopezchiesino.carregistry.service.CarRegistryService;
+import com.name.carregistry.repository.CarRegistryRepository;
+import com.name.carregistry.service.CarRegistryService;
 
 import lombok.extern.slf4j.Slf4j;
 

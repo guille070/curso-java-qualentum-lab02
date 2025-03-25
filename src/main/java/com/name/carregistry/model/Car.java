@@ -1,4 +1,4 @@
-package com.glopezchiesino.carregistry.model;
+package com.name.carregistry.model;
 
 import lombok.Data;
 import lombok.EqualsAndHashCode;
